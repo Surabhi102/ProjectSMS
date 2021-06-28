@@ -1,0 +1,15 @@
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\bin\Debug\SchoolDB.exe.config
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\bin\Debug\SchoolDB.exe
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\bin\Debug\SchoolDB.pdb
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\bin\Debug\EntityFramework.dll
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\bin\Debug\EntityFramework.xml
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\obj\Debug\SchoolDB.csproj.AssemblyReference.cache
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\obj\Debug\SchoolDB.Properties.Resources.resources
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\obj\Debug\SchoolDB.csproj.GenerateResource.cache
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\obj\Debug\SchoolDB.csproj.CoreCompileInputs.cache
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\obj\Debug\SchoolDB.csproj.CopyComplete
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\obj\Debug\SchoolDB.exe
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\obj\Debug\SchoolDB.pdb
+C:\Users\SurabhiG\source\repos\SchoolDB\SchoolDB\obj\Debug\SchoolDB.Form1.resources
